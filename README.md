@@ -91,11 +91,11 @@ Layoffs data including:
 ---
 
 ## 🏗 Project Structure
--     layoffs_raw.csv
+-     layoffs.csv
 
 -     data_cleaning.sql
 
--     exploratory_analysis.sql
+-     exploratory_data_analysis.sql
 
 -     README.md
 
